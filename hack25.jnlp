@@ -5,12 +5,10 @@
         <vendor>HackTJ Team</vendor>
         <description>Java Swing GUI for HackTJ25</description>
     </information>
-    <security>
-        <all-permissions/>
-    </security>
     <resources>
         <j2se version="1.8+" href="http://java.sun.com/products/autodl/j2se" />
         <jar href="hack25.jar" main="true" />
     </resources>
-    <application-desc main-class="hacktj25" />
+    <application-desc main-class="hacktj25">
+    </application-desc>
 </jnlp>
