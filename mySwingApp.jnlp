@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0+" codebase="https://stepanka19.github.io/hacktj25/" href="MySwingApp.jnlp">
+    <information>
+        <title>My Swing App</title>
+        <vendor>Your Name</vendor>
+        <description>A Java Swing GUI App</description>
+    </information>
+    <resources>
+        <j2se version="1.8+" />
+        <jar href="hack25.jar" />
+    </resources>
+    <application-desc main-class="hacktj25" />
+</jnlp>
